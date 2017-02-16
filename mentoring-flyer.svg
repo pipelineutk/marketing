@@ -81,11 +81,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="665.939"
-     inkscape:cy="384.05403"
+     inkscape:zoom="0.35"
+     inkscape:cx="946.07211"
+     inkscape:cy="632.33969"
      inkscape:document-units="mm"
-     inkscape:current-layer="g8063"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
      inkscape:window-width="1366"
@@ -137,18 +137,18 @@
        id="rect4485-7"
        width="215.89999"
        height="25.4"
-       x="0"
+       x="3.0517579e-006"
        y="17.6" />
     <g
        id="g8040"
-       transform="translate(-3.3313911,-12.700002)">
+       transform="translate(-3.3313911,-0.52916643)">
       <rect
          y="238.2007"
-         x="36.149494"
+         x="3.2655656"
          height="18.174328"
-         width="150.26379"
+         width="216.03165"
          id="rect7913"
-         style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.74395424;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.89202648;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text7902"
          y="249.42604"
@@ -170,12 +170,26 @@
      inkscape:label="Layer 2"
      style="opacity:1;filter:url(#filter7001)">
     <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.37903786;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4785"
+       width="125.9643"
+       height="55.5625"
+       x="47.851025"
+       y="158.06964" />
+    <rect
+       style="opacity:1;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:3.78517389;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4754"
+       width="215.89999"
+       height="57.195675"
+       x="0"
+       y="76.35511" />
+    <rect
        style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:4.93317652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4631"
        width="102.08829"
        height="12.85119"
        x="56.905857"
-       y="133.2744"
+       y="142.79927"
        ry="0" />
     <text
        xml:space="preserve"
@@ -191,16 +205,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;line-height:6.61458302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="14.992644"
+       x="8.8440647"
        y="16.406784"
        id="text4509"><tspan
          sodipodi:role="line"
          id="tspan4507"
-         x="14.992644"
+         x="8.8440647"
          y="16.406784"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332px">Pipeline: <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
-   id="tspan4693">Vols for Women in STEM</tspan></tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332px">Become a mentor to STEM students</tspan></text>
     <g
        transform="matrix(0.37629629,0,0,-0.37629629,104.52491,262.10747)"
        id="g1278">
@@ -284,90 +296,27 @@
          style="display:inline;opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.77198374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:131.35870695%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="15.669392"
-         y="40.574333"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:131.35870695%;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="108.18318"
+         y="41.170639"
          id="text6954"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
            sodipodi:role="line"
-           x="15.669392"
-           y="40.574333"
-           id="tspan6946"><tspan
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.12483095 0"
-             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-             id="tspan6936">Are you a grad student or post-doc with an </tspan></tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-           sodipodi:role="line"
-           x="15.669392"
-           y="53.549656"
+           x="108.18318"
+           y="41.170639"
            id="tspan6952"><tspan
-             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.17800611"
-             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332"
-             id="tspan6948">interest in helping others? </tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+             id="tspan6936">Are you a graduate student or upperclassmen</tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="108.18318"
+           y="54.145962"
+           id="tspan4750"><tspan
+             dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -0.17800611"
+             dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+             id="tspan4752">in a STEM field?</tspan></tspan></text>
     </g>
-    <text
-       id="text7030"
-       y="62.402336"
-       x="1.4164579"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:132.03988075%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan7028"
-         y="62.402336"
-         x="1.4164579"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"><tspan
-           id="tspan7008"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332">Consider becoming a mentor to a new college student or upperclassmen </tspan></tspan><tspan
-         y="73.581711"
-         x="1.4164579"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-         id="tspan4703"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-   dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"
-   id="tspan4705">in transition who shares your interests and</tspan> field of <tspan
-   id="tspan7024"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:129.99999523%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-   dy="0 0 0 0 0 0 0"
-   dx="0 0 0 0 0 0 0">study!</tspan></tspan></text>
-    <text
-       id="text7096"
-       y="155.65158"
-       x="19.687914"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:135.88756323%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
-         id="tspan7082"
-         y="155.65158"
-         x="19.687914"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Give professional development advice</tspan><tspan
-         id="tspan7094"
-         y="166.19797"
-         x="19.687914"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332">Help mentees make meaningful connections to <tspan
-   id="tspan7092"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke-width:0.26458332"
-   dy="0"
-   dx="0">people </tspan></tspan><tspan
-         y="176.74435"
-         x="19.687914"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-         id="tspan7160">working in their field </tspan><tspan
-         y="187.29074"
-         x="19.687914"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-         id="tspan7241">Provide insight into balancing studies, friends, and</tspan><tspan
-         y="197.83713"
-         x="19.687914"
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-         id="tspan7237">extracuricculars  </tspan></text>
     <text
        id="text7114"
        y="215.04837"
@@ -558,7 +507,7 @@
     </g>
     <g
        id="g8063"
-       transform="translate(-260.52226,-4.913688)">
+       transform="translate(-260.52226,-3.3261879)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -572,55 +521,61 @@
            id="tspan8005"><tspan
              style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;font-family:Calibri;fill:#000000;stroke-width:0.26458332"
              id="tspan7997" /></tspan></text>
-      <rect
-         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.58405995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4717"
-         width="150.26401"
-         height="19.276785"
-         x="293.34036"
-         y="233.10536" />
-      <flowRoot
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         id="flowRoot4719"><flowRegion
-           id="flowRegion4721"><use
-             x="0"
-             y="0"
-             xlink:href="#rect4717"
-             id="use4723" /></flowRegion><flowPara
-           id="flowPara4725"
-           style="-inkscape-font-specification:'Source Sans Pro';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">For more information, contact (<flowSpan
-   style="fill:#754a7e;-inkscape-font-specification:'Source Sans Pro';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="flowSpan4744">cfwstem@utk.edu</flowSpan>) or visit the mentoring website <flowSpan
-   style="fill:#754a7e;-inkscape-font-specification:'Source Sans Pro';font-family:'Source Sans Pro';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="flowSpan4742">cfwstem.weebly.com/mentoring </flowSpan></flowPara></flowRoot>      <path
-         inkscape:connector-curvature="0"
-         style="fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23406126"
-         d="m 367.23146,238.67892 42.34851,0 v 0.38071 l -42.34851,0 z"
-         id="path7983"
-         sodipodi:nodetypes="ccccc" />
-      <path
-         inkscape:connector-curvature="0"
-         style="opacity:1;fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29372451"
-         d="m 338.1314,245.84404 76.45543,0 v 0.3613 l -76.45543,0 z"
-         id="path7983-6"
-         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g4775"
+         transform="translate(0,12.700002)">
+        <rect
+           y="233.10536"
+           x="275.38638"
+           height="8.3154755"
+           width="186.17175"
+           id="rect4717"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.62017846;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           id="flowRoot4719"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4721"><use
+               height="100%"
+               width="100%"
+               id="use4723"
+               xlink:href="#rect4717"
+               y="0"
+               x="0" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
+             id="flowPara4725">To sign up, contact (<flowSpan
+   id="flowSpan4744"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#754a7e">cfwstem@utk.edu</flowSpan>) or visit <flowSpan
+   id="flowSpan4742"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#754a7e">cfwstem.weebly.com/mentoring </flowSpan></flowPara></flowRoot>        <path
+           sodipodi:nodetypes="ccccc"
+           id="path7983"
+           d="m 322.01815,239.28028 h 42.34851 v 0.38071 h -42.34851 z"
+           style="fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23406126"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path7983-6"
+           d="m 384.39713,239.28087 h 76.45543 v 0.3613 h -76.45543 z"
+           style="opacity:1;fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29372451"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.61458206px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.61458206px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="61.988102"
        y="119.81847"
        id="text4671"><tspan
          sodipodi:role="line"
          x="61.988102"
          y="119.81847"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#ffffff;"
          id="tspan4673">YOU could be the influence that helps someone earn their </tspan><tspan
          sodipodi:role="line"
          x="61.988102"
          y="127.43847"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#ffffff;"
          id="tspan4681">degree and make the most of their college experience.</tspan></text>
     <flowRoot
        xml:space="preserve"
@@ -635,5 +590,63 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4689"
-         style="font-size:9.87777778px">As a mentor, you would:</flowPara></flowRoot>  </g>
+         style="font-size:9.87777778px">As a mentor, you would:</flowPara></flowRoot>    <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89910555;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4756"
+       width="190.5"
+       height="22.584017"
+       x="12.7"
+       y="53.343994" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:132.03988075%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot4758"><flowRegion
+         id="flowRegion4760"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4756"
+           id="use4762"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4764"
+         style="text-anchor:middle;text-align:center">Consider becoming a mentor to students who share your interests and field of study!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:135.88756323%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot4787"
+       transform="translate(-1.5988793)"><flowRegion
+         id="flowRegion4789"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4785"
+           id="use4791"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4793"
+         style="text-align:justify;text-anchor:start">Give professional development advice </flowPara><flowPara
+         id="flowPara4795"
+         style="text-align:justify;text-anchor:start">Help mentees make connections to </flowPara><flowPara
+         id="flowPara4822"
+         style="text-align:justify;text-anchor:start">people working in their field  </flowPara><flowPara
+         id="flowPara4797"
+         style="text-align:justify;text-anchor:start">Provide insight into balancing </flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara4824">studies, friends, and extracurriculars  </flowPara></flowRoot>    <circle
+       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4799"
+       cx="41.206966"
+       cy="162.70212"
+       r="2.54" />
+    <circle
+       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4799-2"
+       cx="41.206966"
+       cy="173.75566"
+       r="2.54" />
+    <circle
+       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4799-27"
+       cx="41.206966"
+       cy="194.31"
+       r="2.54" />
+  </g>
 </svg>
