@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="946.07211"
-     inkscape:cy="632.33969"
+     inkscape:zoom="0.7"
+     inkscape:cx="490.14104"
+     inkscape:cy="404.85441"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -92,7 +92,8 @@
      inkscape:window-height="745"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -212,7 +213,7 @@
          id="tspan4507"
          x="8.8440647"
          y="16.406784"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332px">Become a mentor to STEM students</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.69999981px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.26458332px">Become a mentor to STEM students!</tspan></text>
     <g
        transform="matrix(0.37629629,0,0,-0.37629629,104.52491,262.10747)"
        id="g1278">
@@ -286,7 +287,7 @@
          style="font-size:7.76111126px;fill:#ffffff;stroke-width:0.26458332px">@utkcfwstem</tspan></text>
     <g
        id="g4628"
-       transform="translate(0,-3.7041668)">
+       transform="translate(0,-6.1988098)">
       <rect
          y="31.656864"
          x="0"
@@ -333,8 +334,8 @@
        id="rect7221"
        width="150.75874"
        height="19.96558"
-       x="64.203499"
-       y="89.849022"
+       x="62.495373"
+       y="80.85318"
        ry="0" />
     <flowRoot
        xml:space="preserve"
@@ -349,11 +350,192 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4617"
-         style="line-height:1.2em;-inkscape-font-specification:'Source Sans Pro Bold';font-family:'Source Sans Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">freshman at the University of Tennessee never finish their first year of college. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'">freshman at the University of Tennessee never finish their first year of college. </flowPara><flowPara
          id="flowPara7245"
-         style="line-height:1.2em;-inkscape-font-specification:'Source Sans Pro Bold';font-family:'Source Sans Pro';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal" /></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'" /></flowRoot>    <g
+       id="g7054"
+       transform="translate(-14.287501,-5.064881)">
+      <circle
+         r="28.597837"
+         cy="109.68385"
+         cx="46.772167"
+         id="path4511"
+         style="opacity:1;fill:#ff8200;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text4515"
+         y="122.06209"
+         x="22.504364"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:6.61458302px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           sodipodi:role="line"
+           id="tspan4615"
+           x="22.504364"
+           y="122.06209">14%</tspan></text>
+    </g>
+    <g
+       id="g8063"
+       transform="translate(-260.52226,-3.3261879)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="289.64749"
+         y="252.36284"
+         id="text8007"><tspan
+           style="stroke-width:0.26458332"
+           sodipodi:role="line"
+           x="0"
+           y="0"
+           id="tspan8005"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;font-family:Calibri;fill:#000000;stroke-width:0.26458332"
+             id="tspan7997" /></tspan></text>
+      <g
+         id="g4775"
+         transform="translate(0,12.700002)">
+        <rect
+           y="233.10536"
+           x="275.38638"
+           height="8.3154755"
+           width="186.17175"
+           id="rect4717"
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.62017846;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           id="flowRoot4719"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           xml:space="preserve"
+           transform="translate(3.83633)"><flowRegion
+             id="flowRegion4721"><use
+               height="100%"
+               width="100%"
+               id="use4723"
+               xlink:href="#rect4717"
+               y="0"
+               x="0" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light'"
+             id="flowPara4725">To sign up, contact <flowSpan
+   id="flowSpan4744"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#754a7e">cfwstem@utk.edu</flowSpan> or visit <flowSpan
+   id="flowSpan4742"
+   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#754a7e">cfwstem.weebly.com/mentoring </flowSpan></flowPara></flowRoot>        <path
+           sodipodi:nodetypes="ccccc"
+           id="path7983"
+           d="m 323.09302,239.28511 h 41.27364 v 0.37105 h -41.27364 z"
+           style="fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.22812043"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path7983-6"
+           d="m 381.75128,239.29009 h 72.55164 v 0.34286 h -72.55164 z"
+           style="opacity:1;fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.27872705"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot4683"
+       transform="translate(4.6146184,1.86581)"><flowRegion
+         id="flowRegion4685"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4631"
+           id="use4687"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4689"
+         style="font-size:9.87777778px">As a mentor, you would:</flowPara></flowRoot>    <rect
+       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89910555;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4756"
+       width="190.5"
+       height="22.584017"
+       x="12.7"
+       y="51.756493" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.46666667px;line-height:132.03988075%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       id="flowRoot4758"><flowRegion
+         id="flowRegion4760"
+         style="-inkscape-font-specification:'Source Sans Pro, Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8.46666667px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4756"
+           id="use4762"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4764"
+         style="text-anchor:middle;text-align:center;-inkscape-font-specification:'Source Sans Pro, Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8.46666667px;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">Consider becoming a mentor to students who share your interests and field of study!</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:10.54638481px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="flowRoot4787"
+       transform="translate(0.45472084)"><flowRegion
+         id="flowRegion4789"
+         style="line-height:10.54638481px"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4785"
+           id="use4791"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4793"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:10.54638481px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:justify;text-anchor:start">Give professional development advice </flowPara><flowPara
+         id="flowPara4795"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:10.54638481px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:justify;text-anchor:start">Help mentees make connections to </flowPara><flowPara
+         id="flowPara4822"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:10.54638481px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:justify;text-anchor:start">people working in their field  </flowPara><flowPara
+         id="flowPara4797"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:10.54638481px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:justify;text-anchor:start">Provide insight into balancing </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;line-height:10.54638481px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';text-align:justify;text-anchor:start"
+         id="flowPara4824">studies, friends, and extracurriculars  </flowPara></flowRoot>    <circle
+       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4799"
+       cx="41.206966"
+       cy="162.70212"
+       r="2.54" />
+    <circle
+       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4799-2"
+       cx="41.206966"
+       cy="173.75566"
+       r="2.54" />
+    <circle
+       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4799-27"
+       cx="41.206966"
+       cy="194.31"
+       r="2.54" />
+    <rect
+       style="opacity:1;fill:#58595b;fill-opacity:1;stroke:none;stroke-width:4.32962704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4832"
+       width="153.31441"
+       height="27.515938"
+       x="61.214001"
+       y="103.38902" />
+    <flowRoot
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:6.61458206px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot4834"
+       transform="translate(1.5070278,-1.5875)"><flowRegion
+         id="flowRegion4836"><use
+           x="0"
+           y="0"
+           xlink:href="#rect4832"
+           id="use4838"
+           width="100%"
+           height="100%" /></flowRegion><flowPara
+         id="flowPara4840"
+         style="line-height:1.20000005em">YOU could be the influence that helps someone earn their  degree and make the most of their college experience.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:7.19071674px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="86.707726"
+       y="218.24362"
+       id="text4844"><tspan
+         sodipodi:role="line"
+         id="tspan4842"
+         x="86.707726"
+         y="218.24362"
+         style="fill:#754a7e;stroke-width:0.26458332px;-inkscape-font-specification:'Source Sans Pro Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal">Mentoring program brought to you by Pipeline: Vols for Women in STEM</tspan></text>
+    <g
        id="g6860"
-       transform="translate(4.2494236,4.0090429)">
+       transform="translate(3.6824593,4.3397721)">
       <path
          id="path306"
          style="fill:#2fbebd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.37629628"
@@ -485,168 +667,5 @@
         </g>
       </g>
     </g>
-    <g
-       id="g7054"
-       transform="translate(-14.287501,-5.064881)">
-      <circle
-         r="28.597837"
-         cy="109.68385"
-         cx="46.772167"
-         id="path4511"
-         style="opacity:1;fill:#ff8200;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <text
-         id="text4515"
-         y="122.06209"
-         x="22.504364"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.27777863px;line-height:6.61458302px;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan4615"
-           x="22.504364"
-           y="122.06209">14%</tspan></text>
-    </g>
-    <g
-       id="g8063"
-       transform="translate(-260.52226,-3.3261879)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         x="289.64749"
-         y="252.36284"
-         id="text8007"><tspan
-           style="stroke-width:0.26458332"
-           sodipodi:role="line"
-           x="0"
-           y="0"
-           id="tspan8005"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;font-family:Calibri;fill:#000000;stroke-width:0.26458332"
-             id="tspan7997" /></tspan></text>
-      <g
-         id="g4775"
-         transform="translate(0,12.700002)">
-        <rect
-           y="233.10536"
-           x="275.38638"
-           height="8.3154755"
-           width="186.17175"
-           id="rect4717"
-           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.62017846;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <flowRoot
-           id="flowRoot4719"
-           style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           xml:space="preserve"><flowRegion
-             id="flowRegion4721"><use
-               height="100%"
-               width="100%"
-               id="use4723"
-               xlink:href="#rect4717"
-               y="0"
-               x="0" /></flowRegion><flowPara
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro'"
-             id="flowPara4725">To sign up, contact (<flowSpan
-   id="flowSpan4744"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#754a7e">cfwstem@utk.edu</flowSpan>) or visit <flowSpan
-   id="flowSpan4742"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#754a7e">cfwstem.weebly.com/mentoring </flowSpan></flowPara></flowRoot>        <path
-           sodipodi:nodetypes="ccccc"
-           id="path7983"
-           d="m 322.01815,239.28028 h 42.34851 v 0.38071 h -42.34851 z"
-           style="fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.23406126"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="ccccc"
-           id="path7983-6"
-           d="m 384.39713,239.28087 h 76.45543 v 0.3613 h -76.45543 z"
-           style="opacity:1;fill:#754a7e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29372451"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:6.61458206px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="61.988102"
-       y="119.81847"
-       id="text4671"><tspan
-         sodipodi:role="line"
-         x="61.988102"
-         y="119.81847"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#ffffff;"
-         id="tspan4673">YOU could be the influence that helps someone earn their </tspan><tspan
-         sodipodi:role="line"
-         x="61.988102"
-         y="127.43847"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.3499999px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px;fill:#ffffff;"
-         id="tspan4681">degree and make the most of their college experience.</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:125%;font-family:'Lobster 1.4';-inkscape-font-specification:'Lobster 1.4, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="flowRoot4683"
-       transform="translate(4.6146184,1.86581)"><flowRegion
-         id="flowRegion4685"><use
-           x="0"
-           y="0"
-           xlink:href="#rect4631"
-           id="use4687"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4689"
-         style="font-size:9.87777778px">As a mentor, you would:</flowPara></flowRoot>    <rect
-       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89910555;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4756"
-       width="190.5"
-       height="22.584017"
-       x="12.7"
-       y="53.343994" />
-    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:132.03988075%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="flowRoot4758"><flowRegion
-         id="flowRegion4760"><use
-           x="0"
-           y="0"
-           xlink:href="#rect4756"
-           id="use4762"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4764"
-         style="text-anchor:middle;text-align:center">Consider becoming a mentor to students who share your interests and field of study!</flowPara></flowRoot>    <flowRoot
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:135.88756323%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       id="flowRoot4787"
-       transform="translate(-1.5988793)"><flowRegion
-         id="flowRegion4789"><use
-           x="0"
-           y="0"
-           xlink:href="#rect4785"
-           id="use4791"
-           width="100%"
-           height="100%" /></flowRegion><flowPara
-         id="flowPara4793"
-         style="text-align:justify;text-anchor:start">Give professional development advice </flowPara><flowPara
-         id="flowPara4795"
-         style="text-align:justify;text-anchor:start">Help mentees make connections to </flowPara><flowPara
-         id="flowPara4822"
-         style="text-align:justify;text-anchor:start">people working in their field  </flowPara><flowPara
-         id="flowPara4797"
-         style="text-align:justify;text-anchor:start">Provide insight into balancing </flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara4824">studies, friends, and extracurriculars  </flowPara></flowRoot>    <circle
-       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4799"
-       cx="41.206966"
-       cy="162.70212"
-       r="2.54" />
-    <circle
-       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4799-2"
-       cx="41.206966"
-       cy="173.75566"
-       r="2.54" />
-    <circle
-       style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path4799-27"
-       cx="41.206966"
-       cy="194.31"
-       r="2.54" />
   </g>
 </svg>
