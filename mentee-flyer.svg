@@ -28,51 +28,6 @@
          d="M 0,810 H 630 V 0 H 0 Z"
          inkscape:connector-curvature="0" />
     </clipPath>
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter7001">
-      <feBlend
-         inkscape:collect="always"
-         mode="hard-light"
-         in2="BackgroundImage"
-         id="feBlend7003" />
-    </filter>
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-1" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-2" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-7" />
-    <pattern
-       y="0"
-       x="0"
-       height="6"
-       width="6"
-       patternUnits="userSpaceOnUse"
-       id="EMFhbasepattern-5" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -81,11 +36,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="334.32055"
-     inkscape:cy="536.83487"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="621.42397"
+     inkscape:cy="328.23332"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      inkscape:window-width="1920"
@@ -93,7 +48,43 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     showguides="true" />
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="0,130.40179"
+       orientation="1,0"
+       id="guide4615"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-6.3499999,152.4"
+       orientation="1,0"
+       id="guide4617"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="215.8244,147.41071"
+       orientation="1,0"
+       id="guide4619"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="222.25,152.4"
+       orientation="1,0"
+       id="guide4621"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-6.35,0"
+       orientation="0,1"
+       id="guide4623"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,279.4"
+       orientation="0,1"
+       id="guide4625"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -102,24 +93,10 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Background"
-     style="display:none">
-    <rect
-       transform="translate(0,-17.6)"
-       style="display:inline;opacity:1;fill:#f0ede3;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7923"
-       width="215.89999"
-       height="228.59996"
-       x="2.8421709e-014"
-       y="43" />
-  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -127,22 +104,23 @@
      transform="translate(0,-17.6)"
      style="display:inline">
     <rect
-       style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.51237208;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4485"
-       width="215.89999"
-       height="25.4"
-       x="-3.5527137e-015"
-       y="271.59998" />
-    <rect
-       style="opacity:1;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:0.5123722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:0.58945727;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4485-7"
-       width="215.89999"
-       height="25.4"
-       x="3.0517579e-006"
-       y="17.6" />
+       width="228.60001"
+       height="31.75"
+       x="-6.3499999"
+       y="11.25" />
+    <rect
+       style="display:inline;opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.58945721;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4485"
+       width="228.60001"
+       height="31.75"
+       x="-6.3499999"
+       y="271.60001" />
     <g
+       style="display:inline"
        id="g8040"
-       transform="translate(-3.3313911,-0.52916643)">
+       transform="matrix(1.0581783,0,0,1,-9.8055504,-0.52916639)">
       <rect
          y="238.2007"
          x="3.2655656"
@@ -164,19 +142,52 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold'"
    id="tspan4691">Let a fellow Vol help you!</tspan></tspan></text>
     </g>
+    <rect
+       transform="translate(0,17.6)"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4632"
+       width="228.59999"
+       height="15.754142"
+       x="-6.3499999"
+       y="238.24585" />
+    <rect
+       transform="translate(0,17.6)"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4629"
+       width="228.59999"
+       height="93.071533"
+       x="-6.3499999"
+       y="127" />
+    <rect
+       transform="translate(0,17.6)"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4627"
+       width="228.60001"
+       height="25.341944"
+       x="-6.3499999"
+       y="50.858051" />
+    <rect
+       transform="translate(0,17.6)"
+       style="display:inline;opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:4.13734341;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4867"
+       width="228.60001"
+       height="50.799999"
+       x="-6.3499999"
+       y="76.199997" />
+    <rect
+       transform="matrix(1.0588236,0,0,1,-6.35,11.40119)"
+       y="31.656864"
+       x="0"
+       height="25.4"
+       width="215.89999"
+       id="rect7249"
+       style="display:inline;opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.77198374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     style="opacity:1;filter:url(#filter7001)">
-    <rect
-       style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:4.02077532;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4867"
-       width="215.89999"
-       height="50.799999"
-       x="3.0517579e-006"
-       y="76.199997" />
+     style="display:inline;opacity:1;filter:url(#filter7001)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111126px;line-height:6.61458302px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -272,26 +283,19 @@
          style="font-size:7.76111126px;fill:#ffffff;stroke-width:0.26458332px">@utkcfwstem</tspan></text>
     <g
        id="g4628"
-       transform="translate(0,-6.1988098)">
-      <rect
-         y="31.656864"
-         x="0"
-         height="25.4"
-         width="215.89999"
-         id="rect7249"
-         style="display:inline;opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.77198374;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       transform="matrix(1.0588236,0,0,1,-6.3499999,-6.1988098)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:131.35870695%;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          x="108.18318"
          y="41.170639"
          id="text6954"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
            sodipodi:role="line"
            x="108.18318"
            y="41.170639"
            id="tspan4750">Are you looking for help navigating</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87777805px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
            sodipodi:role="line"
            x="108.18318"
            y="54.145962"
@@ -333,7 +337,7 @@
            height="8.3154755"
            width="186.17175"
            id="rect4717"
-           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.62017846;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+           style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:none;stroke-width:2.62017846;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
         <flowRoot
            id="flowRoot4719"
            style="font-style:normal;font-variant:normal;font-weight:400;font-size:5.62239599px;line-height:125%;font-family:Calibri;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -391,7 +395,7 @@
            style="font-size:9.87777805px"
            id="flowPara4689">As a mentee, you would receive:</flowPara></flowRoot>    </g>
     <rect
-       style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89910555;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:none;stroke-width:3.89910555;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4756"
        width="190.5"
        height="22.584017"
@@ -410,7 +414,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4764"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.46666622px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">We can match you with a grad student who shares your interests and/or field of study.</flowPara></flowRoot>    <g
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:8.46666622px;line-height:1.20000005em;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">We can match you with a grad student who shares your interests and/or field of study.</flowPara></flowRoot>    <g
        id="g4890"
        transform="translate(11.725226,-5.2916669)">
       <rect
@@ -419,7 +423,7 @@
          height="55.5625"
          width="105.93156"
          id="rect4785"
-         style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.09871769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:none;stroke-width:3.09871769;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <flowRoot
          transform="translate(0.45472084)"
          id="flowRoot4787"
@@ -461,16 +465,9 @@
          id="path4799-27"
          style="opacity:0.98000004;fill:#2fbebd;fill-opacity:1;stroke:none;stroke-width:2.07383704;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
-    <flowRoot
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05555534px;line-height:6.61458206px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot4834"
-       transform="translate(1.5070278,-1.5875)"><flowRegion
-         id="flowRegion4836" /><flowPara
-         id="flowPara4840"
-         style="line-height:1.20000005em">YOU could be the influence that helps someone earn their  degree and make the most of their college experience.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:7.19071674px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:7.19071674px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="86.707726"
        y="218.24362"
        id="text4844"><tspan
@@ -478,7 +475,7 @@
          id="tspan4842"
          x="86.707726"
          y="218.24362"
-         style="fill:#754a7e;stroke-width:0.26458332px;-inkscape-font-specification:'Source Sans Pro Light';font-family:'Source Sans Pro';font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal">Mentoring program brought to you by Pipeline: Vols for Women in STEM</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Light';fill:#754a7e;stroke-width:0.26458332px">Mentoring program brought to you by Pipeline: Vols for Women in STEM</tspan></text>
     <g
        id="g6860"
        transform="translate(3.6824593,4.3397721)">
@@ -614,7 +611,7 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:3.83821845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:3.83821845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4857"
        width="203.2"
        height="49.333302"
