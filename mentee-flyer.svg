@@ -88,8 +88,8 @@
      inkscape:current-layer="layer2"
      showgrid="false"
      units="in"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -614,11 +614,11 @@
       </g>
     </g>
     <rect
-       style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:3.64336038;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:none;stroke-width:3.83821845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4857"
-       width="183.09167"
+       width="203.2"
        height="49.333302"
-       x="16.404163"
+       x="6.3500013"
        y="77.666695" />
     <flowRoot
        xml:space="preserve"
@@ -634,7 +634,7 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara4865"
-         style="line-height:1.20000005em;text-align:center;text-anchor:middle">This program is open to women and men from all disciplines. </flowPara><flowPara
+         style="line-height:1.20000005em;text-align:center;text-anchor:middle">This program is open to women and men from all STEM disciplines. </flowPara><flowPara
          style="line-height:1.20000005em;text-align:center;text-anchor:middle"
          id="flowPara4869">Let someone who has stood where you’re standing help you make the best of your college years. </flowPara></flowRoot>  </g>
 </svg>
