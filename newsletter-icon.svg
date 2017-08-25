@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    version="1.1"
    id="svg2"
-   viewBox="0 0 270.00001 360.00002"
-   height="4in"
-   width="3in">
+   viewBox="0 0 193.90099 232.46657"
+   height="2.5829618in"
+   width="2.1544554in">
   <defs
      id="defs4" />
   <metadata
@@ -25,70 +25,62 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-647.36217)"
+     transform="translate(-87.242247,-730.02183)"
      id="layer1">
-    <rect
-       y="647.8916"
-       x="0.5294444"
-       height="43.941113"
-       width="268.9411"
-       id="rect4136"
-       style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:#58595b;stroke-width:1.05888879;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       y="962.81342"
-       x="0.45121258"
-       height="44.097576"
-       width="269.0976"
-       id="rect4138"
-       style="opacity:1;fill:#2197a9;fill-opacity:1;stroke:#58595b;stroke-width:0.90242517;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       id="path4140"
-       d="m 13.5,727.86274 243,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7"
-       d="m 13.5,751.21981 243,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-9"
-       d="m 13.5,797.93398 243,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-0"
-       d="m 13.5,844.64815 243,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-8"
-       d="m 13.500001,891.36229 242.999999,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-1"
-       d="m 13.499998,938.07646 243.000002,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-3"
-       d="m 13.500001,914.71938 242.999999,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-87"
-       d="m 13.500001,868.00522 242.999999,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-09"
-       d="m 13.500001,821.29105 242.999999,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <path
-       id="path4140-7-5"
-       d="m 13.5,774.57691 243,0"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99882632px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       id="text4232"
-       y="678.79077"
-       x="4.2857132"
-       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:20px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Ultra-Light';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       xml:space="preserve"><tspan
-         y="678.79077"
-         x="4.2857132"
-         id="tspan4236">Pipeline: Vols for Women in STEM</tspan></text>
+       id="path4249"
+       d="m 280.34888,829.84784 -97.51129,-96.28017 -94.816247,96.30566 96.836567,67.9704 z"
+       style="fill:#176976;fill-opacity:1;fill-rule:evenodd;stroke:#176976;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       transform="translate(-23.738586,-2.4847713)"
+       id="g4240">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.93026215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4238"
+         width="161.05884"
+         height="134.46223"
+         x="127.59602"
+         y="773.35034" />
+      <rect
+         style="opacity:1;fill:#754a7e;fill-opacity:1;stroke:#754a7e;stroke-width:0.77830082;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4136"
+         width="161.22171"
+         height="39.600346"
+         x="127.51154"
+         y="732.89575" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.89996004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.27663,804.78458 137.69387,-0.0365"
+         id="path4140" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.89996004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.27663,825.80501 137.69387,0"
+         id="path4140-7" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.89996004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.27663,846.82547 137.69387,0"
+         id="path4140-7-5" />
+      <text
+         id="text4257"
+         y="759.01837"
+         x="173.08661"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00000191px;line-height:125%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="759.01837"
+           x="173.08661"
+           id="tspan4259">Pipeline</tspan></text>
+    </g>
+    <g
+       transform="translate(0,54.000001)"
+       id="g4253">
+      <path
+         style="fill:#2197a9;fill-rule:evenodd;stroke:#2197a9;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 87.756987,776.84609 97.201103,65.57047 95.66185,-65.57047 0,131.14232 -192.862953,0 z"
+         id="path4247" />
+      <path
+         style="fill:#176976;fill-opacity:1;fill-rule:evenodd;stroke:#176976;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 184.93277,842.42225 -96.070928,65.56616 190.682078,0 z"
+         id="path4251" />
+    </g>
   </g>
 </svg>
